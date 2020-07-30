@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Axepta Android Example</string>
+
+    <string name="basket_post_text">Items in the Basket, click to buy now!</string>
+
+    <!-- axepta -->
+    <string name="axepta_merchant_id" translatable="false">test</string>
+    <string name="axepta_auth_url" translatable="false">https://computop.example.com/api/auth</string>
+
+    <!-- axepta WeChat -->
+    <string name="axepta_wechat_app_id" translatable="false">your wechat app id</string>
+    <string name="axepta_wechat_mch_id" translatable="false">your wechat merchant id</string>
+    <string name="axepta_wechat_key" translatable="false">your wechat key</string>
+
+    <!-- axepta PayPal -->
+    <string name="axepta_paypal_intent_uri_host" translatable="false">com.shop.demo.PayPalReturn</string>
+    <string name="axepta_paypal_intent_uri_scheme" translatable="false">merchant</string>
+
+</resources>
